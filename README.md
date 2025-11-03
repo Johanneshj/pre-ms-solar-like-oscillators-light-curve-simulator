@@ -24,3 +24,5 @@ full_signal(
         dest_folder=f'./', ID=1
     )
 ```
+## Example light curve and spectrum
+![Example of ACF method](figures/varsource_000000001.png)
