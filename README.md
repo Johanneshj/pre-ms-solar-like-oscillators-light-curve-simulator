@@ -1,7 +1,7 @@
 # Light curve simulator for pre-MS solar-like oscillators
 
 **lightcurve_simulator.py** accepts the following:
-- \texttt{MESA} models and \texttt{GYRE} frequencies.
+- $\texttt{MESA}$ models and $\texttt{GYRE}$ frequencies.
 - Length of time series in days.
 - Cadence in days.
 
