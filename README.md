@@ -24,4 +24,3 @@ full_signal(
         dest_folder=f'./', ID=1
     )
 ```
-```python
